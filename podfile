@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+  
+target 'NativeDemo' do
+
+pod 'Flutter',:podspec => 'Flutter/Flutter.podspec'
+ 
+end 
